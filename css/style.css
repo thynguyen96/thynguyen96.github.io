@@ -22,7 +22,7 @@ html {
     font-size: 50px;
 }
 
-.header .menu ul li.active i{
+.header .menu ul li.active i {
     color: red;
 }
 
@@ -35,8 +35,9 @@ html {
 .header .menu ul li i {
     font-size: 1.5rem;
 }
+
 .header .menu ul li:hover {
-   cursor: pointer;
+    cursor: pointer;
 }
 
 .cv-button a {
